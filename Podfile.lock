@@ -1,0 +1,32 @@
+PODS:
+  - Crashlytics (3.8.6):
+    - Fabric (~> 1.6.3)
+  - Fabric (1.6.13)
+  - Mixpanel (3.1.9)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - Crashlytics (~> 3.8.4)
+  - Fabric (~> 1.6.11)
+  - Mixpanel (~> 3.1.2)
+  - RealmSwift (~> 2.8.1)
+  - SDWebImage (~> 3.8.2)
+
+SPEC CHECKSUMS:
+  Crashlytics: 95d05f4e4c19a771250c4bd9ce344d996de32bbf
+  Fabric: 2fb5676bc811af011a04513451f463dac6803206
+  Mixpanel: 57923411aec1a1c7926efbb158f0bbd4460803fa
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 3cea3d6310ef8f0627f35e5251e69b25ae6921b3
+
+COCOAPODS: 1.2.1
